@@ -1,2 +1,7 @@
-# software-vulnerabilities-analysis
-Exploratory analysis and application of machine learning techniques to predict whether a software is vulnerable or not. For Data Mining and Exploration classes.
+# Vulnerabilities Dataset
+
+## Questions
+
+### Are there correlations among software metrics?
+### Are the software metrics able to represent functions with reported vulnerabilities?
+### How effective are machine learning techniques to predict vulnerable functions?
